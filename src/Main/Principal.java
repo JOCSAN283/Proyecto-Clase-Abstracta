@@ -20,6 +20,7 @@ public class Principal {
             System.out.println("4--- Eliminar profesionista");
             System.out.println("5--- Mostrar todos los profesionistas");
             System.out.println("6--- Salir");
+            System.out.println("Hola mundo");
 
             try {
                 opcion = lectura.nextInt();
